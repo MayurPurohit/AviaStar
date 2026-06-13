@@ -18,7 +18,7 @@
     }
   </style>
 
-  <script type="module" crossorigin src="/assets/mobile-CbtfEzHI.js"></script>
+  <script type="module" crossorigin src="/assets/mobile-Bu8h11eY.js"></script>
   <link rel="modulepreload" crossorigin href="/assets/Car-7mKnn4yi.js">
   <link rel="stylesheet" crossorigin href="/assets/Car-CWb02WtN.css">
 </head>
@@ -49,7 +49,7 @@
                     </p>
                   </div>
                   <div class="pgc-mobile-lobby-parent">
-                    <div class="pgc-mobile-lobby-inner">
+                    <div class="pgc-mobile-lobby-inner volume">
                       <div class="pgc-mobile-lobby-round">
                           <i
                     class="fa-solid fa-volume-high volIcon" 
@@ -65,10 +65,10 @@
           </div>
           <div class="pgc-m-game-structure-middle">
             <div class="pgc-notification-container">
-              <div class="pgc-notification error">
+              <!-- <div class="pgc-notification error">
                 <i class="icon-error pgc-notification-icon"></i><span class="pgc-notification-text">Slow
                   connection</span>
-              </div>
+              </div> -->
             </div>
             <div class="pgc-m-game-holder">
               <div class="mob-game-wrapper">
@@ -260,26 +260,49 @@
 
                               <div class="bet-section-left-top">
                                 <div class="bet-section-left-top-bet">
-                                  <button class="bet-btn-block default pulse-anim" id="bet-left">
-                                    <p class="bet-text-from-btn">Bet</p>
-                                  </button>
+                                   <button
+                                class="bet-btn-block default bet" style="display: none;"
+                                id="bet-left"
+                              >
+                                <p class="bet-text-from-btn">Bet</p>
+                              </button>
 
-                                  <button class="bet-btn-block default   pulse-anim " style="display: none;" id="nextBet-left">
-                                    <p class="bet-text-from-btn">Bet for Next <br />Round </p>
-                                  </button>
+                                   <button
+                                class="bet-btn-block default pulse-anim " style="display: none;"
+                                id="nextBet-left"
+                              >
+                                <p class="bet-text-from-btn">
+                                  Bet for Next <br />
+                                  Round
+                                </p>
+                              </button>
 
-                                  <button class="bet-btn-block default  cancel " style="display: none;" id="cancelBet-left">
-                                    <p class="bet-text-from-btn">Cancel </p>
-                                  </button>
+                                  <button
+                                class="bet-btn-block default cancel " style="display: none;"
+                                id="cancelBet-left"
+                              >
+                                <p class="bet-text-from-btn">Cancel</p>
+                              </button>
 
-                                  <button class="bet-btn-block default  cashout  " style="display: none;" id="cashout-left">
-                                    <p class="bet-text-from-btn">Cashout </p>
-                                    <span class="cashout-amount hidden" id="cashout-amt-left">0.15Fun</span>
-                                  </button>
-                                  <div class="double-cashout" style="display: none;" id="halfCashout-left">
-                                    <p class="bet-text-from-btn-mini">Cashout</p>
-                                    <p class="bet-text-from-btn-mini">50%</p>
-                                  </div>
+                                   <button
+                                class="bet-btn-block default cashout disabled " style="display: none;"
+                                id="cashout-left"
+                              >
+                                <p class="bet-text-from-btn">Cashout</p>
+                                <span
+                                  class="cashout-amount " style="display: none;"
+                                  id="cashout-amt-left"
+                                  >0.13Fun</span
+                                >
+                              </button>
+
+                                  <div
+                                class="double-cashout disabled " style="display: none;"
+                                id="halfCashout-left"
+                              >
+                                <p class="bet-text-from-btn-mini">Cashout</p>
+                                <p class="bet-text-from-btn-mini">50%</p>
+                              </div>
                                 </div>
                               </div>
 
@@ -404,9 +427,9 @@
 
                                 <div class="only-mob-auto-cash-block">
                                   <div class="only-mob-auto-cash-items" id="autoBetTxt-right">
-                                    <p class="auto-cashout-text-only">
-                                      Auto Bet
-                                    </p>
+                                   <p class="auto-cashout-text aBet-right">
+                                Auto Bet
+                              </p>
                                     <i class="fa-solid fa-angle-up"></i>
                                   </div>
 
@@ -424,26 +447,48 @@
                               </div>
                               <div class="bet-section-left-top">
                                 <div class="bet-section-left-top-bet">
-                                  <button class="bet-btn-block default pulse-anim" id="bet-right">
-                                    <p class="bet-text-from-btn">Bet</p>
-                                  </button>
+                                  <button
+                                class="bet-btn-block default bet" style="display: none;"
+                                id="bet-right"
+                              >
+                                <p class="bet-text-from-btn">Bet</p>
+                              </button>
 
-                                  <button class="bet-btn-block default   pulse-anim  " style="display: none;" id="nextBet-right">
-                                    <p class="bet-text-from-btn">Bet for Next <br />Round </p>
-                                  </button>
+                                 <button
+                                class="bet-btn-block default pulse-anim " style="display: none;"
+                                id="nextBet-right"
+                              >
+                                <p class="bet-text-from-btn">
+                                  Bet for Next <br />
+                                  Round
+                                </p>
+                              </button>
 
-                                  <button class="bet-btn-block default  cancel  " style="display: none;" id="cancelBet-right">
-                                    <p class="bet-text-from-btn">Cancel </p>
-                                  </button>
+                                  <button
+                                class="bet-btn-block default cancel " style="display: none;"
+                                id="cancelBet-right"
+                              >
+                                <p class="bet-text-from-btn">Cancel</p>
+                              </button>
 
-                                  <button class="bet-btn-block default  cashout  " style="display: none;"  id="cashout-right">
-                                    <p class="bet-text-from-btn">Cashout </p>
-                                    <span class="cashout-amount hidden" id="cashout-amt-right">0.15Fun</span>
-                                  </button>
-                                  <div class="double-cashout " style="display: none;" id="halfCashout-right">
-                                    <p class="bet-text-from-btn-mini">Cashout</p>
-                                    <p class="bet-text-from-btn-mini">50%</p>
-                                  </div>
+                                  <button
+                                class="bet-btn-block default cashout disabled " style="display: none;"
+                                id="cashout-right"
+                              >
+                                <p class="bet-text-from-btn">Cashout</p>
+                                <span
+                                  class="cashout-amount"
+                                  id="cashout-amt-right"
+                                  >0.13Fun</span
+                                >
+                              </button>
+                                  <div
+                                class="double-cashout disabled " style="display: none;"
+                                id="halfCashout-right"
+                              >
+                                <p class="bet-text-from-btn-mini">Cashout</p>
+                                <p class="bet-text-from-btn-mini">50%</p>
+                              </div>
                                 </div>
                               </div>
 
@@ -1231,7 +1276,7 @@
                           <span class="pgc-setting-name">50% Cashout</span>
                         </div>
                         <div class="pgc-setting-row-column right">
-                          <div class="pgc-switcher active"></div>
+                          <div class="pgc-switcher active" id="halfCOswitch"></div>
                         </div>
                       </div>
                     </div>
