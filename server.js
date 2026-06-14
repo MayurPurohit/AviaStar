@@ -27,6 +27,19 @@ const data = {
     msg: ""
 }
 
+function BROADCAST_USER_COUNT() {
+    console.log("BROADCAST_USER_COUNT CALLED");
+
+    const msg = {
+        type: "userCount",
+        count: wss.clients.size
+    };
+
+    console.log("Connected Clients:", wss.clients.size);
+
+    BROADCAST(msg);
+}
+
 const GET_ROUND_ID = () => {
     //    TODO get  the data  from API set the values
     roundId = "12346-8765-43";
@@ -149,8 +162,7 @@ function START_ROUND() {
 
 START_ROUND();
 
-
-
+console.log("RUNNING FILE:", __filename);
 wss.on("connection", (ws) => {
     console.log("client connected");
     ws.send(JSON.stringify({
@@ -158,6 +170,12 @@ wss.on("connection", (ws) => {
         message: data,
         timestamp: new Date().toISOString()
     }));
+      console.log("BEFORE USER COUNT");
+
+    BROADCAST_USER_COUNT();
+
+    console.log("AFTER USER COUNT");
+
 
     ws.on("message", (message) => {
         const msg = message.toString();
@@ -169,6 +187,7 @@ wss.on("connection", (ws) => {
 
     ws.on("close", () => {
         console.log("client disconnected");
+        BROADCAST_USER_COUNT();
     });
 });
 

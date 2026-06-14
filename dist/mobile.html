@@ -18,8 +18,8 @@
     }
   </style>
 
-  <script type="module" crossorigin src="/assets/mobile-Cs7aCRhw.js"></script>
-  <link rel="modulepreload" crossorigin href="/assets/Car-BOBaJvZG.js">
+  <script type="module" crossorigin src="/assets/mobile-CqZ1Kzhz.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/Car-7NNgbdlO.js">
   <link rel="stylesheet" crossorigin href="/assets/Car-JUfJzDyj.css">
 </head>
 
@@ -1109,6 +1109,44 @@
                 </div>
               </div>
             </div>
+
+            <div class="pgc-game-controllers close" id="historyTab">
+              <div class="pgc-game-controllers-head">
+                <i class="fa-solid fa-clock-rotate-left" style="color: rgb(255, 255, 255)"></i>
+                <span class="pgc-game-controllers-head-text">History </span>
+                <button class="pgc-popup-close" id="close_history_tab">
+                  <i class="fa-solid fa-xmark" style="color: rgb(255, 255, 255)"></i>
+                </button>
+              </div>
+              <div class="pgc-game-controllers-content">
+                <div class="scroll-holder">
+                  <div class="scrollable-container">
+                    <div class="winning-table-wrapper">
+                      <div class="winning-table">
+                        <div class="winning-table-head">
+                          <div class="winning-table-head-cell">Round ID</div>
+                          <div class="winning-table-head-cell">Date</div>
+                          <div class="winning-table-head-cell">Bet</div>
+                          <div class="winning-table-head-cell">Win</div>
+                        </div>
+                        <div class="winning-table-body-wrapper">
+                          <div class="winning-table-body" id="historyTableBody">
+                            <div class="winning-table-body-row">
+                              <div class="winning-table-cell">3****3</div>
+                              <div class="winning-table-cell">0.23</div>
+                              <div class="winning-table-cell">-</div>
+                              <div class="winning-table-cell">-</div>
+                            </div>
+                            
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <div class="pgc-game-controllers close" id="rulesTab">
               <div class="pgc-game-controllers-head">
                 <i class="fa-solid fa-marker" style="color: rgb(255, 255, 255)"></i>
@@ -1323,7 +1361,7 @@
                         </div>
                         <p class="pgc-nav-row-txt">Bets</p>
                       </div>
-                      <div class="pgc-nav-row disabled" id="gameHistory">
+                      <div class="pgc-nav-row " id="gameHistory">
                         <div class="pgc-nav-row-icon-b">
                           <i class="fa-solid fa-clock-rotate-left" style="color: rgb(255, 255, 255)"></i>
                         </div>
@@ -1364,7 +1402,7 @@
                   <i class="fa-solid fa-people-group" style="color: rgb(255, 255, 255)"></i>
                 </div>
                 <div class="m-user-count-holder">
-                  <span class="m-user-count-txt">1</span>
+                  <span class="m-user-count-txt" id="onlineUsers">1</span>
                 </div>
               </div>
               <div class="pgc-right-m-footer">
