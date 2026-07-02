@@ -1,0 +1,997 @@
+raketa.png
+size:2046,2008
+filter:Linear,Linear
+pma:true
+1_000
+bounds:2,1636,280,73
+offsets:52,5,350,286
+1_002
+bounds:1489,1492,281,73
+offsets:50,5,350,286
+1_004
+bounds:2,1383,298,73
+offsets:33,5,350,286
+1_006
+bounds:972,1195,304,73
+offsets:27,5,350,286
+1_008
+bounds:1278,1195,309,73
+offsets:24,5,350,286
+1_010
+bounds:1589,1181,312,73
+offsets:21,5,350,286
+1_012
+bounds:2,1155,313,73
+offsets:20,5,350,286
+1_014
+bounds:317,1152,314,73
+offsets:21,5,350,286
+1_016
+bounds:633,1148,314,73
+offsets:20,5,350,286
+1_018
+bounds:949,1120,314,73
+offsets:20,5,350,286
+1_020
+bounds:855,1745,315,71
+offsets:18,7,350,286
+1_022
+bounds:1171,1519,316,72
+offsets:19,6,350,286
+1_024
+bounds:2,1458,315,72
+offsets:18,6,350,286
+1_026
+bounds:1172,1742,315,71
+offsets:18,6,350,286
+1_028
+bounds:1489,1739,315,71
+offsets:18,7,350,286
+1_030
+bounds:2,1711,313,71
+offsets:19,7,350,286
+1_032
+bounds:763,1672,315,71
+offsets:18,7,350,286
+1_034
+bounds:1102,1818,314,69
+offsets:18,8,350,286
+1_036
+bounds:1080,1669,314,71
+offsets:19,6,350,286
+1_038
+bounds:1396,1666,315,71
+offsets:19,6,350,286
+1_040
+bounds:319,1452,317,72
+offsets:19,6,350,286
+1_042
+bounds:638,1449,317,72
+offsets:20,6,350,286
+1_044
+bounds:957,1445,317,72
+offsets:19,6,350,286
+1_046
+bounds:1452,1418,317,72
+offsets:19,6,350,286
+1_048
+bounds:302,1378,318,72
+offsets:19,6,350,286
+1_050
+bounds:572,1599,319,71
+offsets:17,7,350,286
+1_052
+bounds:893,1596,320,71
+offsets:16,7,350,286
+1_054
+bounds:622,1375,322,72
+offsets:15,6,350,286
+1_056
+bounds:946,1371,322,72
+offsets:15,6,350,286
+1_058
+bounds:1215,1593,321,71
+offsets:16,6,350,286
+1_060
+bounds:201,1532,322,71
+offsets:15,7,350,286
+1_062
+bounds:1418,1815,320,70
+offsets:16,7,350,286
+1_064
+bounds:100,1784,320,70
+offsets:16,7,350,286
+1_066
+bounds:1270,1344,322,72
+offsets:15,6,350,286
+1_068
+bounds:525,1526,321,71
+offsets:15,7,350,286
+1_070
+bounds:1594,1344,322,72
+offsets:15,6,350,286
+1_072
+bounds:2,1304,322,72
+offsets:15,6,350,286
+1_074
+bounds:326,1301,322,72
+offsets:16,6,350,286
+1_076
+bounds:848,1523,321,71
+offsets:16,7,350,286
+1_078
+bounds:650,1297,322,72
+offsets:15,6,350,286
+1_080
+bounds:974,1270,321,72
+offsets:16,6,350,286
+1_082
+bounds:1297,1270,320,72
+offsets:15,6,350,286
+1_084
+bounds:1619,1256,320,72
+offsets:15,6,350,286
+1_086
+bounds:2,1230,321,72
+offsets:14,6,350,286
+1_088
+bounds:325,1227,321,72
+offsets:15,6,350,286
+1_090
+bounds:1265,1120,321,73
+offsets:15,5,350,286
+1_092
+bounds:648,1223,322,72
+offsets:15,6,350,286
+1_094
+bounds:1588,1106,320,73
+offsets:16,5,350,286
+1_096
+bounds:2,1077,321,73
+offsets:16,5,350,286
+1_098
+bounds:325,1072,320,74
+offsets:17,4,350,286
+1_100
+bounds:647,1044,320,74
+offsets:16,4,350,286
+1_102
+bounds:1305,1029,321,75
+offsets:15,3,350,286
+1_104
+bounds:2,995,325,75
+offsets:15,3,350,286
+1_106
+bounds:329,967,328,75
+offsets:15,2,350,286
+1_108
+bounds:659,967,330,75
+offsets:15,2,350,286
+1_110
+bounds:339,889,335,76
+offsets:15,1,350,286
+1_112
+bounds:969,1044,334,74
+offsets:16,3,350,286
+1_114
+bounds:676,874,334,76
+offsets:16,1,350,286
+1_116
+bounds:991,952,333,75
+offsets:17,2,350,286
+1_118
+bounds:1326,922,333,75
+offsets:17,2,350,286
+1_120
+bounds:1661,850,334,76
+offsets:16,1,350,286
+1_122
+bounds:2,890,335,75
+offsets:15,2,350,286
+1_124
+bounds:1012,844,334,76
+offsets:16,1,350,286
+1_126
+bounds:674,795,335,77
+offsets:15,1,350,286
+1_128
+bounds:1661,771,335,77
+offsets:15,1,350,286
+1_130
+bounds:2,812,335,76
+offsets:15,1,350,286
+1_132
+bounds:1511,692,336,77
+offsets:14,0,350,286
+1_134
+bounds:1008,686,336,77
+offsets:14,0,350,286
+1_136
+bounds:1011,765,335,77
+offsets:15,0,350,286
+1_138
+bounds:2,733,334,77
+offsets:16,0,350,286
+1_140
+bounds:338,732,334,77
+offsets:16,0,350,286
+1_142
+bounds:339,811,333,76
+offsets:17,1,350,286
+1_144
+bounds:674,715,332,78
+offsets:18,0,350,286
+1_146
+bounds:2,651,333,80
+offsets:17,0,350,286
+1_148
+bounds:337,647,332,83
+offsets:18,0,350,286
+1_150
+bounds:671,629,333,84
+offsets:17,0,350,286
+1_152
+bounds:1346,606,334,84
+offsets:16,0,350,286
+1_154
+bounds:1006,599,334,85
+offsets:16,0,350,286
+1_156
+bounds:2,558,334,87
+offsets:16,0,350,286
+1_158
+bounds:338,539,334,88
+offsets:16,0,350,286
+1_160
+bounds:1342,514,335,90
+offsets:15,0,350,286
+1_162
+bounds:674,506,334,91
+offsets:16,0,350,286
+1_164
+bounds:2,464,334,92
+offsets:16,0,350,286
+1_166
+bounds:1338,419,335,93
+offsets:15,0,350,286
+1_168
+bounds:338,443,334,94
+offsets:16,0,350,286
+1_170
+bounds:674,354,335,95
+offsets:15,0,350,286
+1_172
+bounds:2,345,336,96
+offsets:14,0,350,286
+1_174
+bounds:1011,321,337,96
+offsets:13,0,350,286
+1_176
+bounds:590,217,337,135
+offsets:13,0,350,286
+1_178
+bounds:929,180,338,139
+offsets:12,0,350,286
+1_180
+bounds:466,71,339,144
+offsets:11,0,350,286
+1_182
+bounds:807,32,339,146
+offsets:11,0,350,286
+1_184
+bounds:1688,15,339,150
+offsets:11,0,350,286
+1_240
+bounds:1167,1952,33,151
+offsets:163,122,350,286
+rotate:90
+1_242
+bounds:1320,1952,33,151
+offsets:163,123,350,286
+rotate:90
+1_244
+bounds:1552,1951,34,140
+offsets:163,134,350,286
+rotate:90
+1_246
+bounds:1694,1951,34,135
+offsets:163,138,350,286
+rotate:90
+1_248
+bounds:1831,1949,34,130
+offsets:163,142,350,286
+rotate:90
+1_250
+bounds:1045,1954,31,120
+offsets:164,149,350,286
+rotate:90
+achrdili
+bounds:171,1998,536,8
+afetqeba xom (1)
+bounds:1963,1934,49,58
+offsets:19,43,100,145
+rotate:90
+afetqeba xom (10)
+bounds:284,1622,81,97
+offsets:8,20,100,145
+rotate:90
+afetqeba xom (11)
+bounds:1713,1652,79,101
+offsets:12,18,100,145
+rotate:90
+afetqeba xom (12)
+bounds:1688,1567,83,103
+offsets:9,17,100,145
+rotate:90
+afetqeba xom (13)
+bounds:1816,1635,80,106
+offsets:14,16,100,145
+rotate:90
+afetqeba xom (14)
+bounds:1793,1541,92,108
+offsets:2,15,100,145
+rotate:90
+afetqeba xom (15)
+bounds:1903,1539,94,110
+offsets:0,15,100,145
+rotate:90
+afetqeba xom (16)
+bounds:1772,1445,94,103
+offsets:0,24,100,145
+rotate:90
+afetqeba xom (17)
+bounds:1924,1635,80,104
+offsets:14,24,100,145
+rotate:90
+afetqeba xom (18)
+bounds:2,1551,83,102
+offsets:14,28,100,145
+rotate:90
+afetqeba xom (19)
+bounds:383,1606,81,92
+offsets:14,39,100,145
+rotate:90
+afetqeba xom (2)
+bounds:638,1906,58,66
+offsets:15,38,100,145
+rotate:90
+afetqeba xom (20)
+bounds:477,1605,81,93
+offsets:12,39,100,145
+rotate:90
+afetqeba xom (21)
+bounds:106,1551,83,93
+offsets:10,40,100,145
+rotate:90
+afetqeba xom (22)
+bounds:584,1680,79,90
+offsets:9,39,100,145
+rotate:90
+afetqeba xom (23)
+bounds:422,1769,75,85
+offsets:7,37,100,145
+rotate:90
+afetqeba xom (24)
+bounds:774,1755,77,79
+offsets:6,38,100,145
+rotate:90
+afetqeba xom (25)
+bounds:413,1689,79,78
+offsets:5,39,100,145
+afetqeba xom (26)
+bounds:1806,1733,81,77
+offsets:4,41,100,145
+afetqeba xom (27)
+bounds:1889,1717,84,77
+offsets:2,41,100,145
+afetqeba xom (28)
+bounds:676,1676,85,79
+offsets:2,39,100,145
+afetqeba xom (29)
+bounds:684,1757,88,76
+offsets:0,43,100,145
+afetqeba xom (3)
+bounds:2,1870,63,72
+offsets:13,37,100,145
+rotate:90
+afetqeba xom (30)
+bounds:494,1688,88,78
+offsets:0,42,100,145
+afetqeba xom (31)
+bounds:785,1834,68,74
+offsets:22,46,100,145
+rotate:90
+afetqeba xom (4)
+bounds:624,1838,66,77
+offsets:11,33,100,145
+rotate:90
+afetqeba xom (5)
+bounds:703,1835,67,80
+offsets:10,33,100,145
+rotate:90
+afetqeba xom (6)
+bounds:1018,1819,71,82
+offsets:9,32,100,145
+rotate:90
+afetqeba xom (7)
+bounds:509,1768,75,83
+offsets:8,28,100,145
+rotate:90
+afetqeba xom (8)
+bounds:594,1761,75,88
+offsets:10,25,100,145
+rotate:90
+afetqeba xom (9)
+bounds:317,1705,77,94
+offsets:10,22,100,145
+rotate:90
+afexebi1
+bounds:1877,1438,154,99
+afexi win
+bounds:635,1966,19,84
+rotate:90
+afrta win
+bounds:261,1974,11,51
+rotate:90
+aftebi ukan
+bounds:1740,1812,71,90
+rotate:90
+araketa
+bounds:340,290,151,248
+rotate:90
+araketukana
+bounds:897,1955,72,30
+bchrdili
+bounds:709,1998,536,8
+bfexi win
+bounds:721,1965,20,84
+rotate:90
+bfrta win
+bounds:2,1989,10,51
+rotate:90
+bfrtebi ukan
+bounds:1832,1812,71,90
+rotate:90
+bfwxwbi ukan
+bounds:1941,1175,153,99
+rotate:90
+boling (1)
+bounds:1887,1997,9,113
+offsets:16,28,42,150
+rotate:90
+boling (10)
+bounds:170,1987,9,127
+offsets:16,16,42,150
+rotate:90
+boling (11)
+bounds:299,1987,9,125
+offsets:16,20,42,150
+rotate:90
+boling (12)
+bounds:426,1987,9,133
+offsets:16,11,42,150
+rotate:90
+boling (13)
+bounds:561,1987,9,128
+offsets:16,15,42,150
+rotate:90
+boling (14)
+bounds:691,1987,9,123
+offsets:16,20,42,150
+rotate:90
+boling (15)
+bounds:816,1987,9,126
+offsets:16,17,42,150
+rotate:90
+boling (16)
+bounds:944,1987,9,125
+offsets:16,17,42,150
+rotate:90
+boling (17)
+bounds:1071,1987,9,129
+offsets:16,11,42,150
+rotate:90
+boling (18)
+bounds:55,1988,9,113
+offsets:16,28,42,150
+rotate:90
+boling (2)
+bounds:1202,1987,9,117
+offsets:16,30,42,150
+rotate:90
+boling (3)
+bounds:1321,1987,9,124
+offsets:16,20,42,150
+rotate:90
+boling (4)
+bounds:1447,1987,9,125
+offsets:16,18,42,150
+rotate:90
+boling (5)
+bounds:1574,1987,9,132
+offsets:16,11,42,150
+rotate:90
+boling (6)
+bounds:128,1975,10,131
+offsets:15,12,42,150
+rotate:90
+boling (7)
+bounds:1708,1987,9,126
+offsets:16,17,42,150
+rotate:90
+boling (8)
+bounds:1836,1986,9,123
+offsets:16,20,42,150
+rotate:90
+boling (9)
+bounds:2,1977,9,124
+offsets:16,20,42,150
+rotate:90
+braketa
+bounds:1350,266,151,248
+rotate:90
+braketa ukan
+bounds:971,1955,72,30
+cchrdili
+bounds:1247,1998,567,8
+cfexebi ukan
+bounds:1628,999,161,105
+cfexi win
+bounds:807,1965,20,88
+rotate:90
+cfrta win
+bounds:314,1974,11,54
+rotate:90
+cfrtebi ukan
+bounds:2,1786,74,96
+rotate:90
+craketa
+bounds:2,183,160,263
+rotate:90
+craketa ukan
+bounds:1473,1952,77,33
+flame (1)
+bounds:113,1999,7,56
+offsets:5,13,18,70
+rotate:90
+flame (2)
+bounds:58,2000,6,53
+offsets:6,15,18,70
+rotate:90
+flame (3)
+bounds:370,1974,11,51
+offsets:5,19,18,70
+rotate:90
+flame (4)
+bounds:1961,1985,10,69
+offsets:5,0,18,70
+rotate:90
+flame (5)
+bounds:423,1973,12,69
+offsets:0,0,18,70
+rotate:90
+flame (6)
+bounds:494,1973,12,70
+offsets:3,0,18,70
+rotate:90
+flame (7)
+bounds:5,2001,5,51
+offsets:7,18,18,70
+rotate:90
+flame (8)
+bounds:1816,1998,8,69
+offsets:7,0,18,70
+rotate:90
+haershi fetq (1)
+bounds:1437,1888,62,104
+offsets:48,96,200,290
+rotate:90
+haershi fetq (10)
+bounds:1807,167,163,189
+offsets:0,46,200,290
+rotate:90
+haershi fetq (11)
+bounds:267,122,166,197
+offsets:1,38,200,290
+rotate:90
+haershi fetq (12)
+bounds:1600,235,161,205
+offsets:11,26,200,290
+rotate:90
+haershi fetq (13)
+bounds:1269,97,167,204
+offsets:8,19,200,290
+rotate:90
+haershi fetq (14)
+bounds:1475,57,176,211
+offsets:2,17,200,290
+rotate:90
+haershi fetq (15)
+bounds:2,2,179,214
+offsets:2,17,200,290
+rotate:90
+haershi fetq (2)
+bounds:1900,928,121,141
+offsets:17,59,200,290
+rotate:90
+haershi fetq (3)
+bounds:1511,794,126,148
+offsets:14,60,200,290
+rotate:90
+haershi fetq (4)
+bounds:1849,636,133,149
+offsets:9,60,200,290
+rotate:90
+haershi fetq (44)
+bounds:1538,1582,82,148
+offsets:34,114,200,290
+rotate:90
+haershi fetq (45)
+bounds:2,2005,1,1
+haershi fetq (5)
+bounds:1682,553,137,151
+offsets:7,60,200,290
+rotate:90
+haershi fetq (6)
+bounds:1835,491,143,157
+offsets:3,62,200,290
+rotate:90
+haershi fetq (7)
+bounds:1010,451,146,157
+offsets:1,67,200,290
+rotate:90
+haershi fetq (8)
+bounds:1169,445,152,167
+offsets:0,62,200,290
+rotate:90
+haershi fetq (9)
+bounds:1835,332,157,179
+offsets:0,54,200,290
+rotate:90
+kometa10
+bounds:1348,813,161,107
+kometa11
+bounds:706,1904,88,59
+kometa6
+bounds:1910,1051,122,122
+kometa7
+bounds:1679,398,154,153
+kometa9
+bounds:1348,704,161,107
+lazeri
+bounds:566,1969,67,16
+lurjcecxl (1)
+bounds:159,1861,64,83
+offsets:21,17,100,100
+rotate:90
+lurjcecxl (10)
+bounds:1543,1887,62,81
+offsets:22,19,100,100
+rotate:90
+lurjcecxl (11)
+bounds:873,1893,60,75
+offsets:23,25,100,100
+rotate:90
+lurjcecxl (12)
+bounds:1162,1889,61,98
+offsets:21,1,100,100
+rotate:90
+lurjcecxl (13)
+bounds:244,1857,64,74
+offsets:20,26,100,100
+rotate:90
+lurjcecxl (14)
+bounds:1928,1869,63,99
+offsets:20,1,100,100
+rotate:90
+lurjcecxl (15)
+bounds:950,1892,61,73
+offsets:22,27,100,100
+rotate:90
+lurjcecxl (16)
+bounds:1626,1887,62,98
+offsets:20,1,100,100
+rotate:90
+lurjcecxl (2)
+bounds:76,1862,63,81
+offsets:20,19,100,100
+rotate:90
+lurjcecxl (3)
+bounds:796,1904,59,75
+offsets:23,25,100,100
+rotate:90
+lurjcecxl (4)
+bounds:1726,1887,62,99
+offsets:20,1,100,100
+rotate:90
+lurjcecxl (5)
+bounds:461,1846,64,76
+offsets:20,24,100,100
+rotate:90
+lurjcecxl (6)
+bounds:1827,1885,62,99
+offsets:21,1,100,100
+rotate:90
+lurjcecxl (7)
+bounds:1262,1889,61,73
+offsets:22,27,100,100
+rotate:90
+lurjcecxl (8)
+bounds:1337,1889,61,98
+offsets:21,1,100,100
+rotate:90
+lurjcecxl (9)
+bounds:539,1845,65,83
+offsets:20,17,100,100
+rotate:90
+xomaldi1
+bounds:1924,1796,120,71
+xomaldi10
+bounds:320,1856,139,63
+xomaldi11
+bounds:369,1921,131,50
+xomaldi12
+bounds:2,1935,142,38
+xomaldi13
+bounds:861,1823,155,67
+xomaldi3
+bounds:1276,1419,174,98
+xomaldi4
+bounds:502,1912,134,52
+xomaldi5
+bounds:1918,1330,106,117
+rotate:90
+xomaldi6
+bounds:1791,949,155,107
+rotate:90
+xomaldi7
+bounds:146,1927,151,45
+xomaldi8
+bounds:299,1923,68,49
+xomaldi9
+bounds:1025,1892,135,60
+
+raketa_2.png
+size:2047,1949
+filter:Linear,Linear
+pma:true
+1_186
+bounds:2,1692,339,154
+offsets:11,0,350,286
+1_188
+bounds:343,1688,340,158
+offsets:10,0,350,286
+1_190
+bounds:685,1685,341,161
+offsets:9,0,350,286
+1_192
+bounds:1028,1681,341,165
+offsets:9,0,350,286
+1_194
+bounds:1371,1675,342,171
+offsets:8,0,350,286
+1_196
+bounds:391,1508,342,175
+offsets:8,0,350,286
+1_198
+bounds:735,1500,342,179
+offsets:8,0,350,286
+1_200
+bounds:1294,1492,346,181
+offsets:4,0,350,286
+1_202
+bounds:673,1306,343,192
+offsets:7,0,350,286
+1_204
+bounds:1681,1054,347,196
+offsets:3,0,350,286
+1_206
+bounds:659,1109,349,195
+offsets:1,0,350,286
+1_208
+bounds:2,923,349,196
+offsets:1,0,350,286
+1_210
+bounds:580,911,349,196
+offsets:1,0,350,286
+1_212
+bounds:2,723,349,198
+offsets:1,0,350,286
+1_214
+bounds:1410,650,347,203
+offsets:3,0,350,286
+1_216
+bounds:2,511,347,210
+offsets:3,0,350,286
+1_218
+bounds:351,491,347,218
+offsets:3,0,350,286
+1_220
+bounds:1058,462,347,224
+offsets:3,0,350,286
+1_222
+bounds:1407,417,348,231
+offsets:2,0,350,286
+1_224
+bounds:2,272,347,237
+offsets:3,0,350,286
+1_226
+bounds:351,242,345,247
+offsets:4,0,350,286
+1_228
+bounds:698,220,345,255
+offsets:4,0,350,286
+1_230
+bounds:1045,200,344,260
+offsets:4,0,350,286
+1_232
+bounds:1391,152,342,263
+offsets:5,0,350,286
+1_234
+bounds:2,2,337,268
+offsets:10,1,350,286
+1_236
+bounds:1757,297,308,269
+offsets:23,1,350,286
+rotate:90
+1_238
+bounds:1759,607,246,269
+offsets:40,2,350,286
+rotate:90
+foni1
+bounds:2,1901,46,2000
+rotate:90
+foni2
+bounds:2,1848,51,2000
+rotate:90
+haershi fetq (16)
+bounds:1079,1496,183,213
+offsets:0,22,200,290
+rotate:90
+haershi fetq (17)
+bounds:1642,1480,185,214
+offsets:0,23,200,290
+rotate:90
+haershi fetq (18)
+bounds:1858,1448,187,217
+offsets:0,23,200,290
+haershi fetq (19)
+bounds:226,1317,189,219
+offsets:0,23,200,290
+rotate:90
+haershi fetq (20)
+bounds:1018,1302,192,221
+offsets:0,23,200,290
+rotate:90
+haershi fetq (21)
+bounds:2,1325,188,222
+offsets:6,23,200,290
+rotate:90
+haershi fetq (22)
+bounds:447,1316,190,224
+offsets:6,24,200,290
+rotate:90
+haershi fetq (23)
+bounds:1241,1298,192,220
+offsets:6,29,200,290
+rotate:90
+haershi fetq (24)
+bounds:1463,1284,194,221
+offsets:6,30,200,290
+rotate:90
+haershi fetq (25)
+bounds:1686,1252,194,223
+offsets:6,30,200,290
+rotate:90
+haershi fetq (26)
+bounds:207,1121,194,225
+offsets:6,30,200,290
+rotate:90
+haershi fetq (27)
+bounds:434,1120,194,223
+offsets:6,34,200,290
+rotate:90
+haershi fetq (28)
+bounds:1010,1105,195,220
+offsets:5,39,200,290
+rotate:90
+haershi fetq (29)
+bounds:1232,1101,195,222
+offsets:5,39,200,290
+rotate:90
+haershi fetq (30)
+bounds:1456,1087,195,223
+offsets:5,40,200,290
+rotate:90
+haershi fetq (31)
+bounds:353,922,196,225
+offsets:4,40,200,290
+rotate:90
+haershi fetq (32)
+bounds:931,907,196,227
+offsets:4,41,200,290
+rotate:90
+haershi fetq (33)
+bounds:1160,903,196,206
+offsets:4,63,200,290
+rotate:90
+haershi fetq (34)
+bounds:1368,889,196,208
+offsets:4,64,200,290
+rotate:90
+haershi fetq (35)
+bounds:1578,855,197,208
+offsets:3,65,200,290
+rotate:90
+haershi fetq (36)
+bounds:353,722,198,210
+offsets:2,66,200,290
+rotate:90
+haershi fetq (37)
+bounds:565,711,198,210
+offsets:2,67,200,290
+rotate:90
+haershi fetq (38)
+bounds:777,706,199,209
+offsets:1,70,200,290
+rotate:90
+haershi fetq (39)
+bounds:988,702,199,210
+offsets:1,71,200,290
+rotate:90
+haershi fetq (40)
+bounds:1200,688,199,208
+offsets:1,75,200,290
+rotate:90
+haershi fetq (41)
+bounds:1788,855,197,207
+offsets:2,76,200,290
+rotate:90
+haershi fetq (42)
+bounds:2,1129,194,203
+offsets:5,78,200,290
+rotate:90
+haershi fetq (43)
+bounds:1715,1667,179,188
+offsets:10,86,200,290
+rotate:90
+kometa5
+bounds:700,477,356,223
+kometa8
+bounds:2,1515,387,171
+
+raketa_3.png
+size:2040,1898
+filter:Linear,Linear
+pma:true
+asteroidebi
+bounds:689,265,667,624
+kometa1
+bounds:2,939,431,358
+kometa2
+bounds:2,470,685,419
+kometa3
+bounds:1358,2,639,659
+rotate:90
+miwa
+bounds:2,1299,2000,203
+miwa win
+bounds:2,1701,2000,195
+mtebi
+bounds:2,1504,2000,195
+stohage
+bounds:435,891,1123,406
+stonhage2
+bounds:1560,643,654,478
+rotate:90
+
+raketa_4.png
+size:2004,1191
+filter:Linear,Linear
+pma:true
+kometa4
+bounds:2,2,518,939
+rotate:90
+varskvlavebi
+bounds:2,522,667,2000
+rotate:90
